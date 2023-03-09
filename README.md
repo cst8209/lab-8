@@ -1,2 +1,4 @@
-# lab-8
-This repository contains the starter files for the Lab 8 assignment.
+# Lab 8
+
+## Objective
+Use what you have learned about event handling, form handling, and creating HTML elements using JavaScript to create a dynamic list of movies.
